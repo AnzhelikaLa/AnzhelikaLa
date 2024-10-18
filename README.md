@@ -3,14 +3,15 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=950&lines=My+name+is+Anzhelika.+I+am+Software+QA+engineer+with+4+years+of+experience+." alt="Typing SVG" /></a>
 
 ## Tools and Languages
+## Tools and Languages
 
-Git ![Git](https://img.icons8.com/ios-filled/50/000000/git.png)  
-Terminal ![Terminal](https://img.icons8.com/ios-filled/50/000000/terminal.png)  
-Postman ![Postman](https://img.icons8.com/ios-filled/50/000000/postman-api.png)  
-Postgres ![Postgres](https://img.icons8.com/ios-filled/50/000000/postgresql.png)  
-JMeter ![JMeter](https://img.icons8.com/ios-filled/50/000000/jmeter.png)  
-DevTools ![DevTools](https://img.icons8.com/ios-filled/50/000000/dev-tools.png)  
-Android Studio ![Android Studio](https://img.icons8.com/ios-filled/50/000000/android-studio.png)
+![Git](https://img.icons8.com/ios-filled/50/000000/git.png) Git &nbsp; 
+![Terminal](https://img.icons8.com/ios-filled/50/000000/terminal.png) Terminal &nbsp; 
+![Postman](https://img.icons8.com/ios-filled/50/000000/postman-api.png) Postman &nbsp; 
+![Postgres](https://img.icons8.com/ios-filled/50/000000/postgresql.png) Postgres &nbsp; 
+![JMeter](https://img.icons8.com/ios-filled/50/000000/jmeter.png) JMeter &nbsp; 
+![DevTools](https://img.icons8.com/ios-filled/50/000000/dev-tools.png) DevTools &nbsp; 
+![Android Studio](https://img.icons8.com/ios-filled/50/000000/android-studio.png) Android Studio
 
 
 
