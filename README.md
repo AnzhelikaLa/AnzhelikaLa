@@ -4,7 +4,7 @@
 
 ## Tools and Languages
 
-![Java](<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" />) Java &nbsp;         
+![Java](https://https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" />) Java &nbsp;         
 ![Git](https://img.icons8.com/color/48/000000/git.png) Git &nbsp; 
 ![Terminal](https://img.icons8.com/color/48/000000/terminal.png) Terminal &nbsp; 
 ![Postman](https://img.icons8.com/color/48/000000/postman-api.png) Postman &nbsp; 
